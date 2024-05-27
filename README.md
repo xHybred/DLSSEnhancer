@@ -15,7 +15,7 @@ A list of games tested against DLSSEnhancer can be found here: https://github.co
 ### Credits
 DLSSEnhancer is built on top of several open-source projects, many thanks to the following:
 
-- emoose dlsstweaks project (https://github.com/emoose/DLSSTweaks)
+- emoose dlsstweaks project https://github.com/emoose/DLSSTweaks
 - praydog for the project template (https://github.com/praydog/AutomataMP)
 - cursey for safetyhook (https://github.com/cursey/safetyhook)
 - Silent for ModUtils (https://github.com/CookiePLMonster/ModUtils)
