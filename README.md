@@ -9,6 +9,26 @@
 If the DLL loaded in fine there should be a dlsstweaks.log file created next to the EXE
 
 ---
+
+###Custom Scale Factors
+
+Ultra Quality+: 0.849231
+
+Ultra Quality: 0.769231
+
+Quality: 0.66666667
+
+Quality: 0.623333335
+
+Balanced: 0.58
+
+Performance: 0.5
+
+Extra Performance: 0.41666667
+
+Ultra Performance: 0.33333334
+
+---
 ### Game Compatibility
 A list of games tested against DLSSEnhancer can be found here: https://github.com/emoose/DLSSTweaks/wiki/Games
 
