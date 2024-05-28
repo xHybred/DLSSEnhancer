@@ -10,7 +10,7 @@ If the DLL loaded in fine there should be a dlsstweaks.log file created next to 
 
 ---
 
-###Custom Scale Factors
+### Custom Scale Factors
 
 Ultra Quality+: 0.849231
 
