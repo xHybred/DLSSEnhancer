@@ -18,7 +18,7 @@ Ultra Quality: 0.769231
 
 Quality: 0.66666667
 
-Quality: 0.623333335
+Balanced+: 0.623333335
 
 Balanced: 0.58
 
