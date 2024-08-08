@@ -78,6 +78,9 @@ DLSSEnhancer is built on top of several open-source projects, many thanks to the
 - PotatoOfDoom for CyberFSR2 & the nvngx.dll loading method/signature override https://github.com/PotatoOfDoom/CyberFSR2
 - This software contains source code provided by NVIDIA Corporation.
 
+---
+### Graphics
+
 ![Logo](https://github.com/user-attachments/assets/d567f3ec-76be-46d9-8b12-82380a4d4e5d)
 
 ![Banner](https://github.com/user-attachments/assets/9ba6c82e-279e-47ec-bf5e-600a687ee5c0)
