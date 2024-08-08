@@ -32,7 +32,7 @@ Ultra Performance: 0.33333334
 
 When editing the DLSSEnhancer.ini file, change the default scale factors to match one of these custom ones. 
 
-**Example:** Opening DLSSEnhancer.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(aka Ultra Quality+)*
+**Example:** Opening DLSSEnhancer.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(aka Ultra Quality+)* > Save changes
 
 ---
 ### Game Compatibility
