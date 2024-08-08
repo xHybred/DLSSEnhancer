@@ -41,7 +41,9 @@ DLSS Enhancer features 6 presets you can choose from for upscaling
 
 **How To Manually Override Scale Factors**
 
-**Example:** Opening DLSSTweaks.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(Ultra Quality+)* > save changes
+**Example:** Opening DLSSTweaks.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(Ultra Quality+)* > save changes. 
+
+Also make sure "Enable" under "DLSSQualityLevels" is set to "true"
 
 ---
 ### Game Compatibility
