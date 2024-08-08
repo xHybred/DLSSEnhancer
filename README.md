@@ -48,19 +48,20 @@ Also make sure "Enable" under "DLSSQualityLevels" is set to "true"
 ---
 ### Letter Presets
 
-Preset A & B (intended for Perf/Bal/Quality)
-Combats ghosting for elements with missing inputs
+Preset A & B
+- Combats ghosting for elements with missing inputs
 
-Preset C (intended for Perf/Bal/Quality)
-Favors current frame information, reducing ghosting at the expense of image stability
+Preset C
+- Favors current frame information, reducing ghosting at the expense of image stability
 
-Preset D (intended for Perf/Bal/Quality)
-Favors prior frame information, improving image stability at the expense of ghosting
+Preset D
+- Favors prior frame information, improving image stability at the expense of ghosting. Default preset for Perf/Bal/Quality
 
-Preset E: Blend between D & C, equal stability to D but slightly more ghosting than C
+Preset E
+- Blend between D & C, equal stability to D but slightly more ghosting than C
 
-Preset F (intended for Ultra Perf/DLAA)
-No information given
+Preset F
+- No information given. Default preset for Ultra Perf/DLAA
 
 ---
 ### Game Compatibility
