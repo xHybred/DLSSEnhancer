@@ -8,8 +8,6 @@
 
 If the DLL loaded in fine there should be a dlsstweaks.log file created next to the EXE
 
-![Logo](https://github.com/user-attachments/assets/d567f3ec-76be-46d9-8b12-82380a4d4e5d)
-
 ---
 ### Custom Scale Factors
 
@@ -79,3 +77,5 @@ DLSSEnhancer is built on top of several open-source projects, many thanks to the
 - Silent for ModUtils https://github.com/CookiePLMonster/ModUtils
 - PotatoOfDoom for CyberFSR2 & the nvngx.dll loading method/signature override https://github.com/PotatoOfDoom/CyberFSR2
 - This software contains source code provided by NVIDIA Corporation.
+
+![Logo](https://github.com/user-attachments/assets/d567f3ec-76be-46d9-8b12-82380a4d4e5d)
