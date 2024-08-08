@@ -27,12 +27,21 @@ Extra Performance: 0.41666667
 
 Ultra Performance: 0.33333334
 
-**How To Setup Custom Scale Factors**
+**Presets**
 
-When editing the DLSSTweaks.ini file, change the default scale factors to match one of these custom ones. 
+DLSS Enhancer features 6 presets you can choose from for upscaling
 
-**Example:** Opening DLSSEnhancer.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(a
-Ultra Quality+)* > save changes
+- Default *(66% - 33%)*
+- Ultra Quality+ - Balanced+ *(84% - 62%)*
+- Ultra Quality - Balanced *(76% - 58%)*
+- Quality - Performance *(66% - 50%)*
+- Balanced+ - Extra Performance *(62% - 41%)*
+- Balanced - Ultra Performance *(58% - 33%)*
+
+
+**How To Manually Override Scale Factors**
+
+**Example:** Opening DLSSTweaks.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(Ultra Quality+)* > save changes
 
 ---
 ### Game Compatibility
