@@ -27,7 +27,7 @@ Extra Performance: 0.41666667
 
 Ultra Performance: 0.33333334
 
-**Presets**
+**Scale Factor Presets**
 
 DLSS Enhancer features 6 presets you can choose from for upscaling
 
@@ -44,6 +44,23 @@ DLSS Enhancer features 6 presets you can choose from for upscaling
 **Example:** Opening DLSSTweaks.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(Ultra Quality+)* > save changes. 
 
 Also make sure "Enable" under "DLSSQualityLevels" is set to "true"
+
+---
+### Letter Presets
+
+Preset A & B (intended for Perf/Bal/Quality)
+Combats ghosting for elements with missing inputs
+
+Preset C (intended for Perf/Bal/Quality)
+Favors current frame information, reducing ghosting at the expense of image stability
+
+Preset D (intended for Perf/Bal/Quality)
+Favors prior frame information, improving image stability at the expense of ghosting
+
+Preset E: Blend between D & C, equal stability to D but slightly more ghosting than C
+
+Preset F (intended for Ultra Perf/DLAA)
+No information given
 
 ---
 ### Game Compatibility
