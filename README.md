@@ -8,6 +8,8 @@
 
 If the DLL loaded in fine there should be a dlsstweaks.log file created next to the EXE
 
+![Logo](https://github.com/user-attachments/assets/d567f3ec-76be-46d9-8b12-82380a4d4e5d)
+
 ---
 ### Custom Scale Factors
 
