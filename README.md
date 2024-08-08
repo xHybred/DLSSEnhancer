@@ -79,3 +79,5 @@ DLSSEnhancer is built on top of several open-source projects, many thanks to the
 - This software contains source code provided by NVIDIA Corporation.
 
 ![Logo](https://github.com/user-attachments/assets/d567f3ec-76be-46d9-8b12-82380a4d4e5d)
+
+![Banner](https://github.com/user-attachments/assets/9ba6c82e-279e-47ec-bf5e-600a687ee5c0)
