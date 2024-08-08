@@ -28,6 +28,12 @@ Extra Performance: 0.41666667
 
 Ultra Performance: 0.33333334
 
+**How To Setup Custom Scale Factors**
+
+When editing the DLSSEnhancer.ini file, change the default scale factors to match one of these custom ones. 
+
+**Example:** Opening DLSSEnhancer.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(aka Ultra Quality+)*
+
 ---
 ### Game Compatibility
 A list of games tested against DLSSEnhancer can be found here: https://github.com/emoose/DLSSTweaks/wiki/Games
