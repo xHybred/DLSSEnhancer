@@ -3,7 +3,7 @@
 - Enhances how DLSS looks by being able to change some aspects of it to your liking
 - Force DLAA for better image quality
 - Custom scaling factors so you get either get better image quality or better performance
-- Preset selection: A, B, C, D, E & F
+- Preset selection: A, B, C, D, E, F, J & K
 - Disable anti-aliasing in games that force TAA
 
 If the DLL loaded in fine there should be a dlsstweaks.log file created next to the EXE
