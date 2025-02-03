@@ -31,12 +31,12 @@ Ultra Performance: 0.33333334
 
 DLSS Enhancer features 6 presets you can choose from for upscaling
 
-- Default *(66% - 33%)*
-- Ultra Quality+ - Balanced+ *(84% - 62%)*
-- Ultra Quality - Balanced *(76% - 58%)*
-- Quality - Performance *(66% - 50%)*
-- Balanced+ - Extra Performance *(62% - 41%)*
-- Balanced - Ultra Performance *(58% - 33%)*
+- Default *(66%, 58%, 50%, 33%)*
+- Ultra Quality+ - Balanced+ *(84%, 76%, 66%, 62%)*
+- Ultra Quality - Balanced *(76%, 66%, 62%, 58%)*
+- Quality - Performance *(66%, 62%, 58%, 50%)*
+- Balanced+ - Extra Performance *(62%, 58%, 50%, 41%)*
+- Balanced - Ultra Performance *(58%, 50%, 41%, 33%)*
 
 
 **How To Manually Override Scale Factors**
