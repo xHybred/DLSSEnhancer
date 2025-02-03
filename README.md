@@ -63,6 +63,12 @@ Preset E
 Preset F
 - No information given. Default preset for Ultra Perf/DLAA
 
+Preset J
+- Prioritizes preserving image detail. It is the sharpest of all presets
+
+Preset K
+- Prioritizes preserving image detail while still maintaining image stability. It is the second sharpest preset & has significantly less shimmering than J, but more ghosting at times.
+
 ---
 ### Game Compatibility
 A list of games tested against DLSSEnhancer can be found here: https://github.com/emoose/DLSSTweaks/wiki/Games
