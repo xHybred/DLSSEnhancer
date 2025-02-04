@@ -48,7 +48,7 @@ DLSS Enhancer features 7 presets you can choose from for upscaling
 
 **Example:** Opening DLSSTweaks.ini > going down to "Quality" > replacing "0.66666667" with "0.849231" *(Ultra Quality+)* > save changes. 
 
-Also make sure "Enable" under "DLSSQualityLevels" is set to "true"
+Also make sure "Enable" under "[DLSSQualityLevels]" is set to "true"
 
 ---
 ### Letter Presets
