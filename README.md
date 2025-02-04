@@ -11,7 +11,6 @@ If the DLL loaded in fine there should be a dlsstweaks.log file created next to 
 ---
 ### Custom Scale Factors
 
-
 Ultra Quality+: 0.849231
 
 Ultra Quality: 0.769231
@@ -43,6 +42,8 @@ DLSS Enhancer features 7 presets you can choose from for upscaling
 - Balanced+ - Performance+ (62%, 58%, 50%, 45%)
 - Balanced - Extra Performance (58%, 50%, 45%, 41%)
 - Performance+ - Ultra Performance (45%, 41%, 37%, 33%)
+
+The reason theirs so many presets, especially at the lower end is because the larger the difference is in image quality between presets. The difference between Ultra Quality+ and Ultra Quality is small, but the difference between Performance & Extra Performance is larger despite being the same % difference (about 8%), so I've added more presets to the lower end to compensate for this.
 
 **How To Manually Override Scale Factors**
 
