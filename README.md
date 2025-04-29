@@ -9,27 +9,35 @@
 If the DLL loaded in fine there should be a dlsstweaks.log file created next to the EXE
 
 ---
-### Custom Scale Factors
+### New Scale Factors
 
-Ultra Quality+: 0.849231
+1. DLAA: 100%
 
-Ultra Quality: 0.769231
+2. DLAA Lite: 88%
 
-Quality: 0.66666667
+3. Ultra Quality+: 83%
 
-Balanced+: 0.623333335
+4. Ultra Quality: 77%
 
-Balanced: 0.58
+5. High Quality: 72%
 
-Performance: 0.5
+6. Quality: 67%
 
-Performance+: 0.458333335
+7. Balanced Quality: 62%
 
-Extra Performance: 0.41666667
+8. Balanced: 58%
 
-Extreme Performance: 0.375000005
+9. Balanced Performance: 54%
 
-Ultra Performance: 0.33333334
+10. Performance: 50%
+
+11. Extra Performance: 45%
+
+12. High Performance: 41%
+
+13: Extreme Performance: 37%
+
+14: Ultra Performance: 33%
 
 **Scale Factor Presets**
 
